@@ -113,15 +113,9 @@ The **Quick Field Editor** plugin for QGIS is a powerful tool designed to simpli
 - **Started**: July 06, 2025
 - **License**: GNU General Public License v2.0 or later
 
-
-
 ## Issues and Support
-- Report bugs or suggest features via the [issue tracker](https://github.com/yourusername/quick_field_editor/issues).
+- Report bugs or suggest features via the [issue tracker](https://github.com/AnustupJana/QuickFieldEditor-plugin/issues).
 - For questions, contact the author at anustupjana21@gmail.com.
 
-## Acknowledgments
-- Built using the QGIS Python API and Plugin Builder.
-- Thanks to the QGIS community for their support and resources.
-
 ## License
-This plugin is licensed under the **GNU General Public License v2.0 or later**. See the [LICENSE](https://github.com/yourusername/quick_field_editor/blob/main/LICENSE) file for details.
+This plugin is licensed under the **GNU General Public License v2.0 or later**. See the [LICENSE](https://github.com/AnustupJana/QuickFieldEditor-plugin/blob/main/LICENSE) file for details.
