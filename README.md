@@ -17,7 +17,7 @@ The **Quick Field Editor** plugin for QGIS is a powerful tool designed to simpli
 - Robust error handling with log messages.
 
 ## Requirements
-- **QGIS Version**: 3.0 or later (up to 3.99).
+- **QGIS Version**: 3.0 or later.
 - **Operating System**: Windows, macOS, or Linux (compatible with QGIS installations).
 - **Dependencies**: No additional Python libraries required; uses QGIS core and PyQt modules.
 
