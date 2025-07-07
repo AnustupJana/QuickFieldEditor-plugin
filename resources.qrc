@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/quick_field_editor" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

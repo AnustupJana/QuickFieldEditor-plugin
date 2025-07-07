@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Quick Field Editor
+qgisMinimumVersion=3.0
+description=Quick Field Editor is a QGIS plugin that simplifies attribute table updates with tools for serial numbers, geometry calculations (area, length, perimeter), coordinates, date, time, text replacement, and field concatenation
+version=0.1
+author=Anustup Jana
+email=anustupjana21@gmail.com
+
+about=Quick Field Editor is a user-friendly QGIS plugin designed to streamline attribute table management for vector layers. With an intuitive dialog, it allows users to update fields effortlessly without manual expressions. Key features include generating serial numbers, calculating area, length, and perimeter with customizable units (e.g., square meters, feet), extracting latitude and longitude from geometry centroids, setting date and time values (with calendar picker and format options), performing string search-and-replace, and concatenating multiple fields with optional separator text.
+
+tracker=https://github.com/AnustupJana/QuickFieldEditor-plugin/issues
+repository=https://github.com/AnustupJana/QuickFieldEditor-plugin
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=attribute, attribute edit, attribute table, calculator, database, field, processing, search, table, time, vector, Quick Field Editor, Quick Field Update, calculate geometry, auto fields update, field calculate, serial number update, search and replace, lat and long update, date and time update, area update, length update, peremeter update
+
+homepage=https://github.com/AnustupJana/QuickFieldEditor-plugin/#readme
+category=Vector
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Vector
+
+# If the plugin can run on QGIS Server.
+server=False
+
