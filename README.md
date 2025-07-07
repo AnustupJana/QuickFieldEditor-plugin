@@ -104,6 +104,7 @@ The **Quick Field Editor** plugin for QGIS is a powerful tool designed to simpli
 4. **View Results**:
    - Updated fields are applied to the selected layer.
    - The tool resets all fields automatically for the next use.
+     
      ![Diagram of the System](https://github.com/AnustupJana/QuickFieldEditor-plugin/blob/main/doc/12th.png?raw=true)
 
 ## Development
